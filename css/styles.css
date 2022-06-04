@@ -44,6 +44,12 @@ header div a{
     color: rgba(12, 12, 12, 0.795)
 }
 
+.name_ppal:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color: black;
+}
+
 .description p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(12, 12, 12, 0.795);
@@ -119,6 +125,13 @@ header div a{
 
 .cont a{
     text-decoration: none;
+}
+
+.cont a:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    text-shadow: 0.2px 0.2px;
+    color: black;
 }
 
 .Cv_text{
